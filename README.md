@@ -17,3 +17,4 @@ Markdown Editor for Chrome
 - **`styles.css`** — all styles, including light/dark theme via `data-theme` attribute
 
 
+![Screenshot](md_sc.jpg)
